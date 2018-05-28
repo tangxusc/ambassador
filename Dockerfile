@@ -1,1 +1,1 @@
-FORM quay.io/datawire/ambassador:0.34.0
+FROM quay.io/datawire/ambassador:0.34.0
